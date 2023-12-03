@@ -1,0 +1,5 @@
+1700983265002	Move 'servlet-context.xml' to 'main'
+1700983299784	Move 'servlet-context.xml' to 'spring'
+1700983302526	Move 'root-context.xml' to 'appServlet'
+1700983367607	Move 'servlet-context.xml' to 'appServlet'
+1700983370904	Move 'root-context.xml' to 'spring'

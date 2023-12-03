@@ -1,0 +1,287 @@
+
+11월 06, 2023 16:51:37.813 NEW SESSION
+11월 06, 2023 16:51:37.813 [3680:7332:1106/165137.800:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 07, 2023 10:11:25.663 NEW SESSION
+11월 07, 2023 10:11:25.664 [13096:17980:1107/101125.660:ERROR:device_event_log_impl.cc(192)] [10:11:25.660] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 10:22:03.615 [13096:17980:1107/102203.615:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 07, 2023 10:23:46.877 [13096:17980:1107/102346.876:ERROR:device_event_log_impl.cc(192)] [10:23:46.876] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 11:32:16.273 [13096:17980:1107/113216.273:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 07, 2023 12:49:09.224 [13096:17980:1107/124909.224:ERROR:device_event_log_impl.cc(192)] [12:49:09.224] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 13:07:37.857 [13096:17980:1107/130737.856:ERROR:device_event_log_impl.cc(192)] [13:07:37.856] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 14:25:55.225 [13096:17980:1107/142555.225:ERROR:device_event_log_impl.cc(192)] [14:25:55.225] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 15:36:08.431 [13096:17980:1107/153608.430:ERROR:device_event_log_impl.cc(192)] [15:36:08.430] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 17:39:39.745 [13096:17980:1107/173939.744:ERROR:device_event_log_impl.cc(192)] [17:39:39.743] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 17:46:38.106 [13096:17720:1107/174638.106:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 07, 2023 17:46:38.181 [13096:17720:1107/174638.181:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 07, 2023 17:46:58.448 [13096:17720:1107/174658.448:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 07, 2023 17:47:10.365 [13096:17720:1107/174710.363:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 07, 2023 17:47:13.426 [13096:17720:1107/174713.425:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 07, 2023 17:47:14.439 [13096:17980:1107/174714.436:ERROR:device_event_log_impl.cc(192)] [17:47:14.436] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 07, 2023 18:00:27.780 [13096:17720:1107/180027.780:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 07, 2023 18:01:14.73 [13096:17980:1107/180114.071:ERROR:device_event_log_impl.cc(192)] [18:01:14.071] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: ��� ������ �����Ͱ� �����ϴ�. (0x103)
+11월 07, 2023 18:01:18.985 [13096:17720:1107/180118.983:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 08, 2023 01:27:59.966 [13096:17488:1108/012759.966:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+11월 08, 2023 01:28:00.78 [13096:17720:1108/012800.078:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 08, 2023 01:30:02.159 [13096:17720:1108/013002.159:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 08, 2023 01:31:05.964 [13096:17720:1108/013105.964:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 08, 2023 03:02:55.943 [13096:17720:1108/030255.943:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+11월 08, 2023 09:09:51.798 [13096:17980:1108/090951.797:ERROR:device_event_log_impl.cc(192)] [09:09:51.786] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+
+11월 09, 2023 09:22:22.750 NEW SESSION
+11월 09, 2023 09:22:22.750 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 09, 2023 09:23:08.411 [7140:17616:1109/092308.411:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 09, 2023 09:23:35.815 [7140:17616:1109/092335.814:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 09, 2023 09:24:00.965 [7140:17616:1109/092400.964:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 09, 2023 10:10:59.623 [7140:17616:1109/101059.623:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:10:59.844 [7140:17616:1109/101059.844:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:00.17 [7140:17616:1109/101100.017:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:00.398 [7140:17616:1109/101100.398:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:00.545 [7140:17616:1109/101100.545:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:00.646 [7140:17616:1109/101100.646:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:00.971 [7140:17616:1109/101100.971:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:01.95 [7140:17616:1109/101101.095:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:01.201 [7140:17616:1109/101101.201:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:01.835 [7140:17616:1109/101101.835:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:01.941 [7140:17616:1109/101101.940:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:02.56 [7140:17616:1109/101102.055:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:02.570 [7140:17616:1109/101102.570:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:03.148 [7140:17616:1109/101103.148:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:03.510 [7140:17616:1109/101103.510:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:04.278 [7140:17616:1109/101104.278:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:04.789 [7140:17616:1109/101104.789:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:04.895 [7140:17616:1109/101104.895:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:05.17 [7140:17616:1109/101105.017:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:05.127 [7140:17616:1109/101105.127:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:05.244 [7140:17616:1109/101105.243:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:05.361 [7140:17616:1109/101105.360:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:05.744 [7140:17616:1109/101105.744:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:05.873 [7140:17616:1109/101105.872:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+11월 09, 2023 10:11:07.494 [7140:17616:1109/101107.494:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.499 s for first_image_paint 0.493 s
+
+11월 13, 2023 12:07:10.695 NEW SESSION
+11월 13, 2023 12:07:10.695 [20840:14084:1113/120710.691:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 13, 2023 12:10:11.174 [20840:17116:1113/121011.173:ERROR:cert_verify_proc_builtin.cc(696)] CertVerifyProcBuiltin for seoulillustrationfair.co.kr failed:
+11월 13, 2023 12:10:11.175 ----- Certificate i=0 (O=My Company Ltd,L=Newbury,ST=Berkshire,C=GB) -----
+11월 13, 2023 12:10:11.177 ERROR: No matching issuer found
+11월 13, 2023 12:10:11.177 
+11월 13, 2023 12:10:11.177 
+
+11월 15, 2023 15:04:59.873 NEW SESSION
+11월 15, 2023 15:04:59.873 [19632:15960:1115/150459.871:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 16, 2023 09:21:16.748 NEW SESSION
+11월 16, 2023 09:21:16.748 [16816:8792:1116/092116.746:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 09:22:25.214 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 16, 2023 09:53:09.260 [16816:3008:1116/095309.260:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 16, 2023 09:53:09.443 [16816:3008:1116/095309.442:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:53:15.971 [16816:3008:1116/095315.971:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:54:18.556 [16816:3008:1116/095418.556:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:54:39.181 [16816:8792:1116/095439.180:ERROR:device_event_log_impl.cc(192)] [09:54:39.180] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 10:47:41.614 [16816:3008:1116/104741.608:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 16, 2023 10:48:45.695 [16816:8792:1116/104845.693:ERROR:device_event_log_impl.cc(192)] [10:48:45.566] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 10:48:45.696 [16816:8792:1116/104845.694:ERROR:device_event_log_impl.cc(192)] [10:48:45.614] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 10:48:51.813 [16816:8792:1116/104851.811:ERROR:device_event_log_impl.cc(192)] [10:48:51.812] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 10:48:51.836 [16816:8792:1116/104851.836:ERROR:device_event_log_impl.cc(192)] [10:48:51.835] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: ��� ������ �����Ͱ� �����ϴ�. (0x103)
+11월 16, 2023 11:11:01.858 [16816:8792:1116/111101.858:ERROR:device_event_log_impl.cc(192)] [11:11:01.858] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 12:00:34.791 [16816:8792:1116/120034.790:ERROR:device_event_log_impl.cc(192)] [12:00:34.789] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 12:12:59.559 [16816:8792:1116/121259.558:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 12:12:59.559 [16816:8792:1116/121259.558:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 12:13:16.386 [16816:8792:1116/121316.386:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 12:13:29.221 [16816:8792:1116/121329.221:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 12:13:54.425 [16816:8792:1116/121354.425:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 12:13:54.426 [16816:8792:1116/121354.425:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 16, 2023 13:17:28.192 [16816:8792:1116/131728.192:ERROR:device_event_log_impl.cc(192)] [13:17:28.191] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 16, 2023 16:40:51.259 [16816:11492:1116/164051.257:ERROR:cert_verify_proc_builtin.cc(696)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+11월 16, 2023 16:40:51.260 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+11월 16, 2023 16:40:51.260 ERROR: Time is after notAfter
+11월 16, 2023 16:40:51.260 
+11월 16, 2023 16:40:51.260 
+
+11월 20, 2023 09:14:56.910 NEW SESSION
+11월 20, 2023 09:14:56.910 [15952:8456:1120/091456.907:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 20, 2023 09:14:56.910 [15952:8456:1120/091456.907:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 20, 2023 10:22:43.836 [15952:8456:1120/102243.835:ERROR:device_event_log_impl.cc(192)] [10:22:43.836] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 20, 2023 12:12:09.253 [15952:8456:1120/121209.252:ERROR:device_event_log_impl.cc(192)] [12:12:09.253] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 20, 2023 12:18:04.928 [15952:8456:1120/121804.928:ERROR:device_event_log_impl.cc(192)] [12:18:04.928] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 20, 2023 14:20:19.628 [15952:8456:1120/142019.628:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 21, 2023 09:44:50.620 NEW SESSION
+11월 21, 2023 09:44:50.620 [15848:8248:1121/094450.618:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint (unset) for first_image_paint 0.216 s
+11월 21, 2023 09:44:50.627 [15848:8248:1121/094450.626:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:50.895 [15848:8248:1121/094450.894:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.12 [15848:8248:1121/094451.012:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.128 [15848:8248:1121/094451.128:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.245 [15848:8248:1121/094451.244:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.361 [15848:8248:1121/094451.361:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.478 [15848:8248:1121/094451.478:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.595 [15848:8248:1121/094451.594:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.711 [15848:8248:1121/094451.710:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:51.828 [15848:8248:1121/094451.828:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:52.445 [15848:8248:1121/094452.444:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:52.560 [15848:8248:1121/094452.559:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:53.215 [15848:8248:1121/094453.214:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:53.320 [15848:8248:1121/094453.319:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:53.441 [15848:8248:1121/094453.441:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:53.562 [15848:8248:1121/094453.562:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:53.670 [15848:8248:1121/094453.670:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:54.81 [15848:8248:1121/094454.080:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:54.290 [15848:8248:1121/094454.290:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:54.426 [15848:8248:1121/094454.425:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:54.545 [15848:8248:1121/094454.545:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:54.789 [15848:8248:1121/094454.789:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:54.941 [15848:8248:1121/094454.941:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:55.78 [15848:8248:1121/094455.077:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:55.274 [15848:8248:1121/094455.274:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:55.375 [15848:8248:1121/094455.375:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:55.516 [15848:8248:1121/094455.516:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:55.625 [15848:8248:1121/094455.625:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:56.22 [15848:8248:1121/094456.022:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:56.162 [15848:8248:1121/094456.161:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:56.284 [15848:8248:1121/094456.283:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:56.425 [15848:8248:1121/094456.425:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:56.608 [15848:8248:1121/094456.606:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:56.795 [15848:8248:1121/094456.794:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:57.15 [15848:8248:1121/094457.015:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:57.35 [15848:8248:1121/094457.035:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:57.217 [15848:8248:1121/094457.217:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 09:44:57.253 [15848:8248:1121/094457.253:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.221 s for first_image_paint 0.216 s
+11월 21, 2023 10:03:07.494 [15848:8248:1121/100307.493:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 10:17:07.997 [15848:8248:1121/101707.997:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 10:46:33.665 [15848:8248:1121/104633.665:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 11:11:22.358 [15848:8248:1121/111122.358:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 11:34:16.432 [15848:12912:1121/113416.432:ERROR:cert_verify_proc_builtin.cc(696)] CertVerifyProcBuiltin for www.turnjs.com failed:
+11월 21, 2023 11:34:16.433 ----- Certificate i=0 (CN=turnjs.com) -----
+11월 21, 2023 11:34:16.433 ERROR: No matching issuer found
+11월 21, 2023 11:34:16.433 
+11월 21, 2023 11:34:16.433 
+11월 21, 2023 11:35:55.49 [15848:12912:1121/113555.049:ERROR:cert_verify_proc_builtin.cc(696)] CertVerifyProcBuiltin for turnjs.com failed:
+11월 21, 2023 11:35:55.49 ----- Certificate i=0 (CN=turnjs.com) -----
+11월 21, 2023 11:35:55.51 ERROR: No matching issuer found
+11월 21, 2023 11:35:55.51 
+11월 21, 2023 11:35:55.51 
+11월 21, 2023 11:43:22.450 [15848:8248:1121/114322.450:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 11:44:23.64 [15848:8248:1121/114423.063:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 11:45:05.134 [15848:8248:1121/114505.134:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 11:45:12.310 [15848:8248:1121/114512.310:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 12:02:16.210 [15848:8248:1121/120216.210:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 12:02:16.211 [15848:8248:1121/120216.210:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 13:37:04.928 [15848:8248:1121/133704.926:ERROR:device_event_log_impl.cc(192)] [13:37:04.926] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 21, 2023 14:43:13.916 [15848:8248:1121/144313.915:ERROR:device_event_log_impl.cc(192)] [14:43:13.915] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 21, 2023 15:02:33.244 [15848:8248:1121/150233.244:ERROR:device_event_log_impl.cc(192)] [15:02:33.243] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 21, 2023 15:15:21.687 [15848:8248:1121/151521.686:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 22, 2023 09:23:48.305 NEW SESSION
+11월 22, 2023 09:23:48.305 [8136:3492:1122/092348.303:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 22, 2023 09:34:04.305 [8136:3492:1122/093404.304:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 22, 2023 09:43:12.884 [8136:3492:1122/094312.883:ERROR:device_event_log_impl.cc(192)] [09:43:12.879] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 22, 2023 09:49:52.580 [8136:3492:1122/094952.579:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 22, 2023 10:07:37.865 [8136:3492:1122/100737.864:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 22, 2023 10:20:20.267 [8136:3492:1122/102020.267:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 23, 2023 11:17:26.237 NEW SESSION
+11월 23, 2023 11:17:26.237 [12360:12264:1123/111726.232:ERROR:device_event_log_impl.cc(192)] [11:17:26.232] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 11:25:34.854 [12360:12264:1123/112534.852:ERROR:device_event_log_impl.cc(192)] [11:25:34.852] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 11:27:44.963 [12360:12264:1123/112744.963:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 23, 2023 11:27:44.964 [12360:12264:1123/112744.963:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 23, 2023 12:38:11.25 NEW SESSION
+11월 23, 2023 12:38:11.25 [12372:8092:1123/123811.020:ERROR:cert_verify_proc_builtin.cc(696)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+11월 23, 2023 12:38:11.26 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+11월 23, 2023 12:38:11.26 ERROR: Time is after notAfter
+11월 23, 2023 12:38:11.27 
+11월 23, 2023 12:38:11.27 
+11월 23, 2023 13:28:32.131 [12372:20064:1123/132832.128:ERROR:device_event_log_impl.cc(192)] [13:28:32.128] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+
+11월 23, 2023 13:33:45.737 NEW SESSION
+11월 23, 2023 13:33:45.737 [9496:4372:1123/133345.735:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 23, 2023 14:01:01.891 [9496:4372:1123/140101.890:ERROR:device_event_log_impl.cc(192)] [14:01:01.890] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 14:08:09.999 [9496:4372:1123/140809.999:ERROR:device_event_log_impl.cc(192)] [14:08:09.998] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 14:10:06.456 [9496:7376:1123/141006.456:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 23, 2023 14:38:30.467 [9496:4372:1123/143830.466:ERROR:device_event_log_impl.cc(192)] [14:38:30.466] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 14:47:35.487 [9496:4372:1123/144735.487:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 23, 2023 16:14:29.381 [9496:4372:1123/161429.380:ERROR:device_event_log_impl.cc(192)] [16:14:29.379] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 17:12:32.173 [9496:4372:1123/171232.172:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 23, 2023 18:28:33.25 [9496:7376:1123/182833.021:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 23, 2023 18:29:08.902 [9496:4372:1123/182908.901:ERROR:device_event_log_impl.cc(192)] [18:29:08.863] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 18:29:08.904 [9496:4372:1123/182908.904:ERROR:device_event_log_impl.cc(192)] [18:29:08.883] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 23, 2023 18:32:55.191 [9496:7376:1123/183255.190:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 24, 2023 07:02:18.452 [9496:7376:1124/070218.451:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+11월 24, 2023 09:03:51.764 [9496:4372:1124/090351.762:ERROR:device_event_log_impl.cc(192)] [09:03:51.521] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 24, 2023 09:03:51.768 [9496:4372:1124/090351.766:ERROR:device_event_log_impl.cc(192)] [09:03:51.708] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 24, 2023 10:05:23.14 [9496:4372:1124/100523.012:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 24, 2023 10:05:23.15 [9496:4372:1124/100523.013:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 24, 2023 10:26:58.477 [9496:4372:1124/102658.477:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 24, 2023 12:30:40.243 [9496:4372:1124/123040.241:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 24, 2023 13:21:38.435 [9496:4372:1124/132138.420:ERROR:device_event_log_impl.cc(192)] [13:21:38.419] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 24, 2023 14:49:10.207 [9496:4372:1124/144910.206:ERROR:device_event_log_impl.cc(192)] [14:49:10.205] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 24, 2023 15:22:50.574 [9496:7376:1124/152250.572:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 24, 2023 15:22:52.248 [9496:4372:1124/152252.247:ERROR:device_event_log_impl.cc(192)] [15:22:52.247] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 24, 2023 15:23:17.56 [9496:7376:1124/152317.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 24, 2023 15:23:23.390 [9496:7376:1124/152323.390:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 24, 2023 15:23:29.597 [9496:7376:1124/152329.597:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 24, 2023 15:23:33.100 [9496:7376:1124/152333.099:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 24, 2023 15:23:48.985 [9496:7376:1124/152348.985:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+11월 26, 2023 14:15:46.14 NEW SESSION
+11월 26, 2023 14:15:46.14 [10472:8484:1126/141546.012:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 26, 2023 14:44:24.47 [10472:8484:1126/144424.045:ERROR:device_event_log_impl.cc(192)] [14:44:24.045] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 26, 2023 14:46:53.445 [10472:2236:1126/144653.444:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 26, 2023 14:47:45.45 [10472:2236:1126/144745.044:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+11월 27, 2023 10:21:25.890 NEW SESSION
+11월 27, 2023 10:21:25.890 [11592:9944:1127/102125.889:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 28, 2023 10:40:26.774 NEW SESSION
+11월 28, 2023 10:40:26.774 [7236:2348:1128/104026.770:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+11월 28, 2023 10:42:57.296 [6516:6656:1128/104257.296:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 28, 2023 10:42:57.296 [6516:6656:1128/104257.296:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 28, 2023 11:38:40.34 [6516:12652:1128/113840.026:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+11월 28, 2023 12:02:33.98 [6516:6656:1128/120233.098:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+11월 28, 2023 13:26:54.250 [6516:6656:1128/132654.248:ERROR:device_event_log_impl.cc(192)] [13:26:54.249] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 28, 2023 15:00:12.708 [6516:6656:1128/150012.707:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 28, 2023 15:15:07.895 [6516:6656:1128/151507.894:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 29, 2023 15:17:39.950 NEW SESSION
+11월 29, 2023 15:17:39.950 [6244:6876:1129/151739.935:ERROR:cert_verify_proc_builtin.cc(696)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+11월 29, 2023 15:17:39.951 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+11월 29, 2023 15:17:39.951 ERROR: Time is after notAfter
+11월 29, 2023 15:17:39.951 
+11월 29, 2023 15:17:39.951 
+11월 29, 2023 15:17:47.562 [6244:2240:1129/151747.562:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 29, 2023 15:17:47.562 [6244:2240:1129/151747.562:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 29, 2023 18:07:43.593 [6244:2240:1129/180743.592:ERROR:device_event_log_impl.cc(192)] [18:07:43.592] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+
+11월 30, 2023 09:19:30.836 NEW SESSION
+11월 30, 2023 09:19:30.836 [10128:11068:1130/091930.834:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 30, 2023 09:19:30.836 [10128:11068:1130/091930.834:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 30, 2023 09:23:27.784 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+11월 30, 2023 14:23:25.573 NEW SESSION
+11월 30, 2023 14:23:25.573 [9148:13844:1130/142325.569:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 30, 2023 14:30:52.647 [9148:18924:1130/143052.646:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 30, 2023 14:30:54.625 [9148:18924:1130/143054.625:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 30, 2023 14:35:41.496 [9148:13844:1130/143541.496:ERROR:device_event_log_impl.cc(192)] [14:35:41.495] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 30, 2023 14:47:05.702 [9148:13844:1130/144705.702:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 30, 2023 14:53:07.281 [9148:13844:1130/145307.281:ERROR:CONSOLE(1)] "SyntaxError: Unexpected token (5:2)", source: devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/formatter_worker/formatter_worker.js (1)
+
+11월 30, 2023 16:12:03.872 NEW SESSION
+11월 30, 2023 16:12:03.873 [13808:9008:1130/161203.853:ERROR:device_event_log_impl.cc(192)] [16:12:03.853] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+11월 30, 2023 16:24:42.13 [13808:9008:1130/162442.013:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 30, 2023 16:24:42.14 [13808:9008:1130/162442.013:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 02, 2023 19:00:50.754 NEW SESSION
+12월 02, 2023 19:00:50.754 [14156:17592:1202/190050.751:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 02, 2023 20:25:44.549 [14156:17592:1202/202544.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+12월 03, 2023 10:08:01.649 NEW SESSION
+12월 03, 2023 10:08:01.653 [6412:16940:1203/100801.625:ERROR:wgc_capturer_win.cc(294)] Failed to create a GraphicsCaptureItem: -2147023170
+12월 03, 2023 10:08:09.225 [6412:16940:1203/100809.225:ERROR:wgc_capturer_win.cc(294)] Failed to create a GraphicsCaptureItem: -2147023170
+
+12월 03, 2023 10:13:38.351 NEW SESSION
+12월 03, 2023 10:13:38.351 [3392:4864:1203/101338.349:ERROR:backend_impl.cc(984)] Critical error found -8
+12월 03, 2023 10:13:38.376 [3392:4864:1203/101338.375:ERROR:backend_impl.cc(984)] Critical error found -8
+12월 03, 2023 10:14:37.371 [3392:7224:1203/101437.371:ERROR:persistent_memory_allocator.cc(890)] Corruption detected in shared-memory segment.
+
+12월 03, 2023 10:32:25.176 NEW SESSION
+12월 03, 2023 10:32:25.176 [4040:6228:1203/103225.172:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
